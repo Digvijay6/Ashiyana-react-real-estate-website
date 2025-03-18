@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ashiyana-react-real-estate-website/static/css/main.b49be5a5.css",
+    "main.js": "/Ashiyana-react-real-estate-website/static/js/main.2b2c8302.js",
+    "static/js/453.42b8abb6.chunk.js": "/Ashiyana-react-real-estate-website/static/js/453.42b8abb6.chunk.js",
+    "index.html": "/Ashiyana-react-real-estate-website/index.html",
+    "main.b49be5a5.css.map": "/Ashiyana-react-real-estate-website/static/css/main.b49be5a5.css.map",
+    "main.2b2c8302.js.map": "/Ashiyana-react-real-estate-website/static/js/main.2b2c8302.js.map",
+    "453.42b8abb6.chunk.js.map": "/Ashiyana-react-real-estate-website/static/js/453.42b8abb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b49be5a5.css",
+    "static/js/main.2b2c8302.js"
+  ]
+}
