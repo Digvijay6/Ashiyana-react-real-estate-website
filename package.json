@@ -8,7 +8,6 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "framer-motion": "^10.18.0",
-    "outside-click-handler": "^1.0.8",
     "react": "^18.2.0",
     "react-accessible-accordion": "^5.0.0",
     "react-countup": "^6.5.3",
